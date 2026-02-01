@@ -1,0 +1,50 @@
+img{
+    width: 220px;
+    height: 280px;
+}
+.leo{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    margin: 20px;
+    width: 220px;
+    text-align: center;
+}
+.leo2{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    margin: 20px;
+    width: 220px;
+    text-align: center;
+}
+p{
+    padding: 10px;
+    margin: 10px;
+    
+}
+.products,p{
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+.products{
+    color: grey;
+}
+body{
+    text-align: center;
+}
+h1{
+    color: red;
+}
+a{
+    color: red;
+}
+.home{
+    color: blue;
+}

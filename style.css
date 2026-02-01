@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 50%;
+}
+li :hover{
+    color: red;
+    background-color:black;
+}
+a{
+    color: gray;
+}
+h1{
+    color: red;
+}
+img{
+    width: 220px;
+    height: 280px;
+}
+.box{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    margin: 20px;
+    width: 220px;
+}
+.box2{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display:inline-block;
+    margin: 20px;
+    width: 220px;
+}
+.shirt :hover{
+    color:white;
+    background-color:black;
+    
+}
+
+.shirt{
+    text-align: center;
+}
+.search{
+    display:block;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+input{
+    width: 95%;
+    padding: 12px;
+    padding-right: 5px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+::placeholder{
+    background-color: white;
+    color: black;
+}
+.search{
+    text-align: center;
+}
+
+.second{
+    background-color: black;
+    color: white;
+}
+h2{
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: red;
+}
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 35px; 
+    padding-top: 20px;
+    color: gray;
+
+
+}
+.hastag{
+    text-align: center;
+    padding-bottom:30px ;
+    color: red;
+    background-color:black;
+}
+.para{
+   background-color: black;  
+   color: gray;
+   padding-bottom:35px;
+   padding-top: 25px;
+   padding-left: 10px;
+   padding-right: 10px;
+
+}
+.home{
+    display:block;
+    color: blue;
+    background-color: black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+.third{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 15px;
+    color: white;
+    background-color: black;
+    width: 100%;
+
+}
+.six{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h4{
+    padding-bottom: 0px;
+    padding-top: 25px;
+    color: red;
+    display:inline-block;
+}
+h5{
+    color: blue;
+    padding-bottom: 25px;
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+
+}
+ol{
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.run{
+    background-color: black;
+    color:gray;
+    margin: 0px;
+
+}
+.home{
+    padding-top: 30px;
+}
+body{
+    background-image: url(body.jpg);
+}
+.end{
+    margin: 15px;
+}
+.gooo{
+    display: inline;
+    margin: 40px;
+    width: 220px;
+    margin-top: 30px;
+}
+.thann{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.tea{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.coffee{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.clock{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.thii{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.clean{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.rice{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.view{
+    width: 220px;
+    height: 280px;
+}
+.chiken{
+    background-color: black;
+}
+.ymr{
+    background-color: black;
+    text-align: center;
+}
+.sun1{
+    color: gray;
+    background-color: black;
+    text-align: center;
+}
+
+
+
+
