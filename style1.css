@@ -43,8 +43,10 @@ h1{
     color: red;
 }
 a{
-    color: red;
+    color: white;
+    background:red;
 }
 .home{
     color: blue;
+
 }
